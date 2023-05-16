@@ -10,6 +10,8 @@ The Polaroid site, also known as the 'Nomads Lighthouse Collection,' is part of 
 - Custom Made Favicon 
 - Fully Responsive Viewport
 
+![ViewportScreenshot](https://github.com/Aldowashere/PolaroidSite/blob/main/1.PNG)
+![MpbileScreenshot](https://github.com/Aldowashere/PolaroidSite/blob/main/2.PNG)
 ## Roadmap 
 
 ### Polaroid Site V0.2 
